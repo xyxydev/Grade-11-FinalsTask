@@ -1,0 +1,33 @@
+body{
+	background-image:url(ml.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+p{
+	text-align:center;
+	color:lightgreen;
+	font-size: 28px;
+	font-weight: bold;
+	border:outset 8px white;
+	margin: 1cm 5cm 0cm 5cm;
+	padding:5px;
+	background-color:;
+	text-shadow: 1px 1px white;
+}
+footer{
+	text-align: center;
+}
+a{
+	color:white;
+}
+h4{
+	color:white;
+	text-align-last: right;
+	margin:8cm 0 0 0;
+}
+button{
+	border:inset 6px lightgreen;
+	background-color: rgba(0, 0, 0, 0.5);
+    color:lightgreen;
+    padding:5px;
+}

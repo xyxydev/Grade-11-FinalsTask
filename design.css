@@ -1,0 +1,80 @@
+body{
+	color: white;
+	font-family: verdana;
+	background-image: url(toxic3.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	margin: 0;
+	padding: 0;
+
+}
+.frontform{
+	text-align: left;
+	border-width: 6px;
+	border-color: white;
+	border-style: hidden;
+	border-radius: 4px;
+	margin:5cm 8cm 6cm 8cm;
+	color: white;
+}
+h1{
+	margin:1cm 8cm 2cm 0cm;
+	border-bottom: 5px solid lightgreen;
+	text-align: left;
+}
+.textbox{
+	width: 100%;
+	overflow: hidden;
+	font-size:20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 1px solid lightgreen;
+}
+.textbox i{
+	width:10px;
+	float:left;
+	text-align:center;
+}
+.textbox input{
+	border:none;
+	outline:none;
+	background:none;
+	color:white;
+	font-size:15px;
+	width:200px;
+	float:left;
+	margin: 3px 17px;
+}
+.continue{
+	width: 100%;
+	background: none;
+	border:6px inset lightgreen;
+	color: white;
+	padding: 2px;
+	font-size: 18px;
+	cursor: pointer;
+	padding:5px;
+}
+.reset{
+	width: 100%;
+	background: none;
+	border:6px outset lightgreen;
+	color: white;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	margin-top: 5px;
+}
+footer{
+	border:inset 6px lightgreen;
+	background-color: rgba(0, 0, 0, 0.5);
+	background: none;
+    color:lightgreen;
+    padding:5px;
+    margin:0 655px 0 0;
+}
+a{
+	border:inset 6px lightgreen;
+	color:lightgreen;
+	padding: 5px;
+}
